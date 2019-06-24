@@ -1,0 +1,11 @@
+/.vs
+/lic_check/obj
+/lic_check/bin
+/lic_gen/obj
+/lic_gen/bin
+/packages
+/Rhino.Licensing/obj
+/Rhino.Licensing/bin
+/xDriver_censored/bin
+/xDriver_censored/obj
+/lic_gen/*.user
